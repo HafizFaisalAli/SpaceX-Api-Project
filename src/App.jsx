@@ -1,7 +1,7 @@
 import React from 'react'
 import {Footer} from './Components/ComponentsExport'
 import { RouterProvider } from 'react-router-dom'
-import routes from './Routes'
+import routes from './routes'
 
 
 const App = () => {
